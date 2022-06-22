@@ -1,0 +1,14 @@
+C:\Users\kapi1\source\repos\Generator liczb losowych\bin\Debug\netcoreapp3.1\Generator liczb losowych.exe
+C:\Users\kapi1\source\repos\Generator liczb losowych\bin\Debug\netcoreapp3.1\Generator liczb losowych.deps.json
+C:\Users\kapi1\source\repos\Generator liczb losowych\bin\Debug\netcoreapp3.1\Generator liczb losowych.runtimeconfig.json
+C:\Users\kapi1\source\repos\Generator liczb losowych\bin\Debug\netcoreapp3.1\Generator liczb losowych.runtimeconfig.dev.json
+C:\Users\kapi1\source\repos\Generator liczb losowych\bin\Debug\netcoreapp3.1\Generator liczb losowych.dll
+C:\Users\kapi1\source\repos\Generator liczb losowych\bin\Debug\netcoreapp3.1\Generator liczb losowych.pdb
+C:\Users\kapi1\source\repos\Generator liczb losowych\obj\Debug\netcoreapp3.1\Generator liczb losowych.csproj.AssemblyReference.cache
+C:\Users\kapi1\source\repos\Generator liczb losowych\obj\Debug\netcoreapp3.1\Generator liczb losowych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapi1\source\repos\Generator liczb losowych\obj\Debug\netcoreapp3.1\Generator liczb losowych.AssemblyInfoInputs.cache
+C:\Users\kapi1\source\repos\Generator liczb losowych\obj\Debug\netcoreapp3.1\Generator liczb losowych.AssemblyInfo.cs
+C:\Users\kapi1\source\repos\Generator liczb losowych\obj\Debug\netcoreapp3.1\Generator liczb losowych.csproj.CoreCompileInputs.cache
+C:\Users\kapi1\source\repos\Generator liczb losowych\obj\Debug\netcoreapp3.1\Generator liczb losowych.dll
+C:\Users\kapi1\source\repos\Generator liczb losowych\obj\Debug\netcoreapp3.1\Generator liczb losowych.pdb
+C:\Users\kapi1\source\repos\Generator liczb losowych\obj\Debug\netcoreapp3.1\Generator liczb losowych.genruntimeconfig.cache
